@@ -5,7 +5,7 @@ Front-End Developer specializing in **Fitness Tech** & **Web3 / Crypto** interfa
 
 ### 🏋️ Fitness Projects
 - [Rep Tracker](link-here) – Track sets, reps, PRs with localStorage
-- [Workout Logger](https://fuegowolf11.github.io/workout-logger)
+- [Workout Logger](https://fuegowolf11.github.io/workout-logger) – Track workout date, time, and type
 - [Macro Calculator](link-here) – Real-time nutrition tracking
 
 ### ₿ Crypto Projects

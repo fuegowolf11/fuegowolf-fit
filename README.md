@@ -7,6 +7,7 @@ Front-End Developer specializing in **Fitness Tech** & **Web3 / Crypto** interfa
 - [Rep Tracker](link-here) – Track sets, reps, PRs with localStorage
 - [Workout Logger](https://fuegowolf11.github.io/workout-logger) – Track workout date, time, and type
 - [Macro Calculator](link-here) – Real-time nutrition tracking
+- - [Fitness Landing Page](https://fuegowolf11.github.io/fitness-landing-page/) – Responsive gym membership site (re-themed freeCodeCamp Product Landing Page)
 
 ### ₿ Crypto Projects
 - [Crypto Price Tracker](link-here) – Live market data via CoinGecko API

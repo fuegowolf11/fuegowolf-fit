@@ -6,12 +6,16 @@ Front-End Developer specializing in **Fitness Tech** & **Web3 / Crypto** interfa
 ### 🏋️ Fitness Projects
 - [Rep Tracker](link-here) – Track sets, reps, PRs with localStorage
 - [Workout Logger](https://fuegowolf11.github.io/workout-logger) – Track workout date, time, and type
-- [Macro Calculator](link-here) – Real-time nutrition tracking
-- [Fitness Landing Page](https://fuegowolf11.github.io/fitness-landing-page/) – Responsive gym membership site (re-themed freeCodeCamp Product Landing Page)
+- [Fitness Landing Page](https://fuegowolf11.github.io/fitness-landing-page/) – Responsive gym membership site (freeCodeCamp Responsive Web Design)
+- [Macro Calculator](https://fuegowolf11.github.io/macro-calculator/) – Nutrition tracker with localStorage persistence (JavaScript)
+
+Product Landing Page)
 ### ₿ Crypto Projects
 - [Crypto Price Tracker](link-here) – Live market data via CoinGecko API
 - [DeFi Portfolio Simulator](link-here) – Mock wallet + charts
 - [NFT Gallery Demo](link-here) – Responsive card grid
+- [Crypto Price Tracker](https://fuegowolf11.github.io/crypto-price-tracker/) – Real-time prices using CoinGecko API (JavaScript)
+- [Crypto Portfolio Tracker](https://fuegowolf11.github.io/crypto-portfolio-tracker/) – Personal holdings value calculator (JavaScript
 
 ### 📜 freeCodeCamp Certifications
 - Responsive Web Design (March 5, 2026)

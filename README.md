@@ -16,9 +16,14 @@ Front-End Developer specializing in **Fitness Tech** & **Web3 / Crypto** interfa
 - [NFT Gallery Demo](link-here) – Responsive card grid
 - [Crypto Price Tracker](https://fuegowolf11.github.io/crypto-price-tracker/) – Real-time prices using CoinGecko API (JavaScript)
 - [Crypto Portfolio Tracker](https://fuegowolf11.github.io/crypto-portfolio-tracker/) – Personal holdings value calculator (JavaScript
+- [Crypto Price Tracker](https://github.com/fuegowolf11/crypto-price-tracker) – Live real-time prices via CoinGecko API
+- [Crypto Portfolio Tracker](https://github.com/fuegowolf11/crypto-portfolio-tracker) – Portfolio simulator with CoinGecko
 
 ### 📜 freeCodeCamp Certifications
 - Responsive Web Design (March 5, 2026)
 - JavaScript (March 16, 2026)
 
+
+
+Currently progressing through freeCodeCamp’s Full Stack Developer curriculum and actively exploring Chainlink oracles, decentralized data feeds, and Web3 front-ends.
 **Skills**: HTML5 • CSS3 (Flexbox/Grid) • JavaScript • Responsive Design • Fetch API • Git

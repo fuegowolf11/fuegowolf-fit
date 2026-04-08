@@ -23,7 +23,10 @@ Front-End Developer specializing in **Fitness Tech** & **Web3 / Crypto** interfa
 - Responsive Web Design (March 5, 2026)
 - JavaScript (March 16, 2026)
 
+## Screenshots
 
+![Desktop View](screenshot-desktop.png)
+![Mobile View](screenshot-mobile.png)
 
 Currently progressing through freeCodeCamp’s Full Stack Developer curriculum and actively exploring Chainlink oracles, decentralized data feeds, and Web3 front-ends.
 **Skills**: HTML5 • CSS3 (Flexbox/Grid) • JavaScript • Responsive Design • Fetch API • Git

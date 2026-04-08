@@ -18,6 +18,8 @@ Front-End Developer specializing in **Fitness Tech** & **Web3 / Crypto** interfa
 - [Crypto Portfolio Tracker](https://fuegowolf11.github.io/crypto-portfolio-tracker/) – Personal holdings value calculator (JavaScript
 - [Crypto Price Tracker](https://github.com/fuegowolf11/crypto-price-tracker) – Live real-time prices via CoinGecko API
 - [Crypto Portfolio Tracker](https://github.com/fuegowolf11/crypto-portfolio-tracker) – Portfolio simulator with CoinGecko
+- [Real-Time Crypto Price Dashboard](https://github.com/fuegowolf11/crypto-price-dashboard) – Live prices for BTC, ETH, SOL, XRP, and more
+- [Chainlink Oracle Price Feed Demo](https://github.com/fuegowolf11/chainlink-price-feed-demo) – Simulated decentralized oracle dashboard
 
 ### 📜 freeCodeCamp Certifications
 - Responsive Web Design (March 5, 2026)
